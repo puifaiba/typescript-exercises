@@ -34,3 +34,4 @@ and get an overview of TypeScript capabilities and principles.
  1. Your contributions are welcome.
 
  2. `yarn start` starts the development server.
+# typescript-exercises
